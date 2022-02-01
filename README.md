@@ -6,3 +6,4 @@ This is a repository with my notebook exercises from [Udacity's Linear Algebra R
 2. [Magnitude & Direction](https://github.com/Jaredkmacho/LinearAlgebraNotebooks/blob/main/MagnitudNDirection.ipynb)
 3. [Dot Product & Angle](https://github.com/Jaredkmacho/LinearAlgebraNotebooks/blob/main/DotProductNAngle.ipynb)
 4. [Parallel & Orthogonal](https://github.com/Jaredkmacho/LinearAlgebraNotebooks/blob/main/ParallelNOrthogonal.ipynb)
+5. [Projecting Vectors](https://github.com/Jaredkmacho/LinearAlgebraNotebooks/blob/main/ProjectingVectors.ipynb)
